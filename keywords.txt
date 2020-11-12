@@ -1,0 +1,5 @@
+PushButton KEYWORD1
+isPressed KEYWORD2
+longPress KEYWORD2
+dualFunction KEYWORD2
+state KEYWORD2
